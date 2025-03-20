@@ -16,6 +16,7 @@
 |-------|--------|
 | [Setting Up CI/CD on GitHub Actions](https://github.com/potatoscript/cicd/wiki/Setting-Up-CICD-on-GitHub) | Create and configure CI/CD pipelines using GitHub Actions. |
 | [CI/CD with GitHub Actions: Basics](https://github.com/potatoscript/cicd/wiki/CI-CD-with-GitHub-Actions-Basics) | Explore GitHub workflows, actions, and YAML configuration. |
+| [CI/CD with GitHub Actions: Advanced](https://github.com/potatoscript/cicd/wiki/CI-CD-with-GitHub-Actions-Advanced) | dive deeper into the more advanced features and optimizations. |
 | [Setting Up CI/CD on GitLab CI](https://github.com/potatoscript/cicd/wiki/Setting-Up-CICD-on-GitLab) | Learn how to set up and run CI/CD pipelines with GitLab CI. |
 | [CI/CD with GitLab CI: Basics](https://github.com/potatoscript/cicd/wiki/CI-CD-with-GitLab-CI-Basics) | Define `.gitlab-ci.yml` and automate testing, building, and deployment. |
 | [Setting Up CI/CD on Bitbucket Pipelines](https://github.com/potatoscript/cicd/wiki/Setting-Up-CICD-on-Bitbucket) | Configure Bitbucket Pipelines for CI/CD with YAML-based workflows. |
@@ -81,4 +82,5 @@
 ## 💡 **Bonus Sections:**
 - [Pipeline Optimization Tips](https://github.com/potatoscript/cicd/wiki/Pipeline-Optimization-Tips) | Learn how to make pipelines faster and more efficient. |
 - [CI/CD Compliance and Governance](https://github.com/potatoscript/cicd/wiki/CI-CD-Compliance-and-Governance) | Ensure compliance with industry standards and governance policies. |
+
 
